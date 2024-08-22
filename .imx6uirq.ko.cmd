@@ -1,0 +1,1 @@
+cmd_/home/xjh/Linux/Linux_driver/IRQ_imx6ull/imx6uirq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/xjh/Linux/Linux_driver/IRQ_imx6ull/imx6uirq.ko /home/xjh/Linux/Linux_driver/IRQ_imx6ull/imx6uirq.o /home/xjh/Linux/Linux_driver/IRQ_imx6ull/imx6uirq.mod.o
